@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/gongo/go-airplay"
+	"github.com/rclancey/go-airplay"
 	"github.com/olekukonko/tablewriter"
 )
 
